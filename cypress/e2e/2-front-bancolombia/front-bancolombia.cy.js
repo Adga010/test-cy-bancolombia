@@ -129,5 +129,5 @@ describe('Prueba en Google y navegación a Bancolombia', () => {
         cy.get('#boton-simular').click();
     });
 
-    // Aquí puedes agregar más pruebas (it) y cada una comenzará con el estado configurado en beforeEach
+    
 });
